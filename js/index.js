@@ -48,3 +48,4 @@ buttonMinus.addEventListener('click', onOperationButtonClick);
 buttonMultiply.addEventListener('click', onOperationButtonClick);
 buttonDevide.addEventListener('click', onOperationButtonClick);
 
+console.log('test2')
